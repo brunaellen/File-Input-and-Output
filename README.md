@@ -15,3 +15,15 @@ A program to record daily the Covid19 cases for the 5 highest counties in Irelan
 
 ## Functionalities:
  
+### Option 1
+This option shows all the data for all the 5 counties.
+### Option 2
+This option allows a user to enter a county name. If that county name exists on file all details for that county is displayed, otherwise an error message is given.
+### Option 3
+This option find and display the county with the highest number of cases recorded. Display the number of cases.
+### Option 4
+Using the median age for each county, this option calculate and display the average age.
+### Option 5
+This option allows a user to enter a county name. If that county exists on file it calculate and display the percentage number of males and percentage number of females.
+### Option 6
+This option find the county with lowest number of cases and write all details for that county out to a new file called LowestCases.txt
