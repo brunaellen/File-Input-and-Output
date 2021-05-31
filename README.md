@@ -1,7 +1,7 @@
 # File-Input-and-Output
 
 <!-- ABOUT THE PROJECT -->
-A program to record daily the Covid19 cases for the 5 highest counties in Ireland.
+A program to record daily and manage the Covid19 cases for the 5 highest counties in Ireland.
 * The program will allow a user to enter the details for the 5 highest counties and write them to file.
 * The program will allow a user to work with the data from the file as follows on a menu-based system:
 
