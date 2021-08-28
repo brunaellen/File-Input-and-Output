@@ -1,3 +1,4 @@
+package fileinputoutput;
 
 //CovidValidationException Class inherits attributes and/or methods from Exception class through(extends keyword)
 public class CovidValidationException extends Exception

@@ -1,12 +1,15 @@
-/*
+package fileinputoutput;/*
 Bruna Ellen Gurgel Souza - L00157216
 Assignment2
 
 */
 
 //import packages containing predefined classes 
-import java.util.*;
-import java.io.*;
+
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.util.List;
 
 //class to create and write to a file
 public class CovidFileDataWriter

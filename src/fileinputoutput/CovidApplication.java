@@ -1,11 +1,14 @@
-/*
+package fileinputoutput;/*
 Bruna Ellen Gurgel Souza - L00157216
 Assignment2
 */
 
 //import packages containing predefined classes 
-import java.util.*;
-import java.io.*;
+
+import java.io.IOException;
+import java.util.InputMismatchException;
+import java.util.List;
+import java.util.Scanner;
 
 //class that has the main method to execute the program
 public class CovidApplication 
