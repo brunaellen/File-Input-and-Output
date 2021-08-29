@@ -1,10 +1,10 @@
-package fileinputoutput;/*
+package fileinputoutput;
+/*
 Bruna Ellen Gurgel Souza - L00157216
 Assignment2
 */
 
-//import packages containing predefined classes 
-
+//import packages containing predefined classes
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.List;

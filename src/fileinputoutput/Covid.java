@@ -1,4 +1,5 @@
-package fileinputoutput;/* Covid class to record daily covid case numbers */
+package fileinputoutput;
+/* Covid class to record daily covid case numbers */
 
 import java.io.Serializable;
 
